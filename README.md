@@ -1,5 +1,5 @@
 # intune-explorer
-A tool that displays a convenient summary of Intune related objects assigned to an Azure AD.
+A tool that displays a convenient summary of Intune related objects assigned to an Azure AD group.
 
 ## Requirements
 - Python 3, from python.org.
